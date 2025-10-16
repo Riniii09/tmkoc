@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/rinip/Desktop/data_science/mlruns/975151349388830101/models/m-9bc53ef9b478473ebc840b426583e6b3/artifacts
+creation_timestamp: 1760468849832
+experiment_id: '975151349388830101'
+last_updated_timestamp: 1760468854727
+model_id: m-9bc53ef9b478473ebc840b426583e6b3
+model_type: null
+name: model
+source_run_id: 886bffef667c4373a6a8fd9079b1733f
+status: 2
+status_message: null

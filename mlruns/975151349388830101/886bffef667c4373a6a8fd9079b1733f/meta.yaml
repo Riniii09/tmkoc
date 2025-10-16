@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/rinip/Desktop/data_science/mlruns/975151349388830101/886bffef667c4373a6a8fd9079b1733f/artifacts
+end_time: 1760468854740
+entry_point_name: ''
+experiment_id: '975151349388830101'
+lifecycle_stage: active
+run_id: 886bffef667c4373a6a8fd9079b1733f
+run_name: Baseline_Random Forest Classifier (RFC)
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760468849146
+status: 3
+tags: []
+user_id: rinip

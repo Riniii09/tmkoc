@@ -1,0 +1,22 @@
+version: "3.8"
+
+services:
+  tmkoc-api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: tmkoc-predictor
+    ports:
+      - "8000:8000"
+    environment:
+      - ENVIRONMENT=production
+      - LOG_LEVEL=info
+    restart: unless-stopped
+    volumes:
+      - ./logs:/app/logs
+    networks:
+      - tmkoc-network
+
+networks:
+  tmkoc-network:
+    driver: bridge

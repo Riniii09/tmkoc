@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/rinip/Desktop/data_science/mlruns/975151349388830101/9f859edbd0a142adab7b46c93fd7dd6a/artifacts
+end_time: 1760468843194
+entry_point_name: ''
+experiment_id: '975151349388830101'
+lifecycle_stage: active
+run_id: 9f859edbd0a142adab7b46c93fd7dd6a
+run_name: Baseline_Gaussian Naive Bayes (GNB)
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760468834327
+status: 3
+tags: []
+user_id: rinip
